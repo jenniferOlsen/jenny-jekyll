@@ -1,6 +1,31 @@
+// override template defaults
+// footer
 .mdl-mega-footer--middle-section {
   padding: 0 50px;
 }
 .mdl-mega-footer--drop-down-section {
   width: 50%;
+}
+
+// header
+.mdl-layout__header-row>* {
+  flex-shrink: 1;
+}
+.mdl-layout-title a {
+  text-decoration: none;
+  color: #fff;
+}
+
+// posts
+.mdl-card__supporting-text {
+  max-height: 130px;
+}
+.post-desc {
+  font-size: 11px;
+  text-transform: capitalize;
+}
+.post-section img {
+  max-width: 90%;
+  border: 1px solid $grey-color-light;
+  margin-top: 2em;
 }
