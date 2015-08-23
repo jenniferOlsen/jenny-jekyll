@@ -1,0 +1,8 @@
+---
+layout: post
+title: "National Psoriasis Foundation Forum"
+categories: Portfolio
+desc: "Lead Developer / Drupal / Developed at Neologic PDX"
+---
+
+The National Psoriasis Foundation wished to convert their print peer-review journal, *Forum*, to a digital experience within their Drupal-based website. <!--excerpt--> I wrote a custom module that allowed for file uploads, an advanced search feature, role-based permissions for viewing articles to allow for special access for donating members, and a drag-and-drop template for content editors to create individual journal issues.

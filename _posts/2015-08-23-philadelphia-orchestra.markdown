@@ -10,5 +10,5 @@ ex-href: "https://www.philorch.org/#/"
 ---
 
 The Philadelphia Orchestra had a beautiful desktop site, but it was never meant to be accessed on a mobile device. I worked with the design team  to make the site responsive without losing the existing desktop experience.
-
+<!--excerpt-->
 [![philorch-mobile](/img/philorch-mobile.png "Philadelphia Orchestra Mobile Site")](https://www.philorch.org/#/)
