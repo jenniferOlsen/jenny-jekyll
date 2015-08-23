@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Philadelphia Orchestra"
-categories: portfolio
+categories: Portfolio
 image: img/philorch-desktop.png
 desc: "Lead Developer / Drupal / Developed at Metal Toad"
 ex-url: "philorch.org"
