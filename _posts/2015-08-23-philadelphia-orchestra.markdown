@@ -3,6 +3,7 @@ layout: post
 title: "Philadelphia Orchestra"
 categories: Portfolio
 image: img/philorch-desktop.png
+highlight-image: img/Phil_Orch_Logo_Sm.jpg
 desc: "Lead Developer / Drupal / Developed at Metal Toad"
 ex-url: "philorch.org"
 ex-href: "https://www.philorch.org/#/"
