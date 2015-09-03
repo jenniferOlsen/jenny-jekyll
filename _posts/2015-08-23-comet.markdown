@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Comet: a Slack clone made with Meteor"
+categories: Portfolio
+image: img/comet.png
+desc: "Solo Project / Meteor.js"
+ex-url: "comet.meteor.com"
+ex-href: "http://jennyo-comet.meteor.com/general"
+---
+Full stack javascript app built with Meteor.js and MongoDB
+<!--excerpt-->
+
+[![comet](/img/comet.png "Slack Clone")]("http://jennyo-comet.meteor.com/general")
